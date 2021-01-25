@@ -5,8 +5,8 @@ Criação de um app que converte moedas
 ## Iniciando o projeto
 
 ```bash
-npm install
-npm start
+yarn install
+yarn start
 ```
 ## Alguns comandos utilizados 
 
